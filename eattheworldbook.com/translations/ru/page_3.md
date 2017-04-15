@@ -1,5 +1,6 @@
-Explanation 2. Ship the right product
+Пояснения 2. Поставляйте правильный продукт
 
-Project Manager is a Person who thinks nine women can deliver a baby in One month.
+Проектный менеджер это человек,что думает девять женщин могут выносить ребенка в один месяц.
 
-Software development is a creative process in which increasing resources rarely yields linear efficiency increase and Project Manager is responsible for delivering the right project (product) on time.
+Разработка ПО - креативный процесс, в котором за увеличиванием ресурсов, редко таиться линейнейное увеличение эффективности и ПМ
+ответствены за предоставление правильных проектов (продуктов) вовремя.

@@ -1,7 +1,9 @@
-Explanation 1. What do programmers really do
+Пояснение 1. Что программисты действительно делают
 
-How many programmers does it take to change a light bulb?
+Сколько программистов нужно, что бы поменять лампочку?
 
-- None, its hardware problem.
+- Ниодного, это проблема в аппаратной часте.
 
-Programmers take care of creating software, while the maintenance and configuration of hardware is handled by service technicians or IT specialists.
+Программисты заботяться о создании программного обеспечения, пока поддерживается и конфигурируется оборудование сервисными техниками или ИТ специалистами.
+
+by - что делая, каким путём (т.е. объясняя шутки)
