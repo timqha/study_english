@@ -1,7 +1,9 @@
-Explanation 3. Don’t make me think
+Объяснение 3. Не заставляй меня думать
 
-A user interface is like a joke. If you have to explain it, it’s not that good.
+Пользовательский интерфейс подобно шутке. Если ты можешь пояснить это, Это не хорошо. (that(далеко, один) относится к good? )
 
-User interface is an area where human interaction with software occurs (e.g. online website form). Well-designed interface should be intuitive and understandable for its users.
+Пользовательский интерфейс это область где люди взаимодействуют с программами (для примера онлайн вебсайт форма). Хороший дизайн интерфейса
+должен быть интуитивным и понятным для этих пользователей.
 
-Steve Krug, a recognized User Experience Specialist, says that the basic principle when designing user interfaces is „Don’t make me think!”
+Стив Круг, Признаный специалист Пользовательского опыта, говорит что базовым принципом дизайна пользовательских интерфейсов является "Не заставляй меня думать!" 
+
